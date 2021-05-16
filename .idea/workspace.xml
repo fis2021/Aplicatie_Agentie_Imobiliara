@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,7 +30,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Proiect fis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/loose/fis/sre" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aplicatie_Agentie_Imobiliara\src\main\java\org\loose\fis\sre" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.loose.fis.sre.model" />
+      <recent name="org.loose.fis.sre.exceptions" />
+      <recent name="org.loose.fis.sre.services" />
+      <recent name="org.loose.fis.sre.controllers" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -46,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621191706736</updated>
-      <workItem from="1621191709495" duration="350000" />
+      <workItem from="1621191709495" duration="2241000" />
     </task>
     <servers />
   </component>
