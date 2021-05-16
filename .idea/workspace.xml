@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/loose/fis/sre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/loose/fis/sre/services" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,6 +40,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ionut\Documents\GitHub\Aplicatie_Agentie_Imobiliara\src\main\java\org\loose\fis\sre\services" />
+      <recent name="C:\Users\ionut\Documents\GitHub\Aplicatie_Agentie_Imobiliara\src\main\java\resources" />
+      <recent name="C:\Users\ionut\Documents\GitHub\Aplicatie_Agentie_Imobiliara\src\main\java\org\loose\fis\sre\controllers" />
       <recent name="D:\Aplicatie_Agentie_Imobiliara\src\main\java\org\loose\fis\sre" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -50,13 +53,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,5 +81,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
